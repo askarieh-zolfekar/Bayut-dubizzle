@@ -1,0 +1,5 @@
+const GISTS_PAGINATION_SIZE = [2, 10, 25];
+
+export {
+    GISTS_PAGINATION_SIZE,
+}

@@ -1,0 +1,4 @@
+// Gists actions
+export const LIST_PUBLIC_GISTS = 'LIST_PUBLIC_GISTS';
+export const START_LOADING_GISTS = 'START_LOADING_GISTS';
+export const STOP_LOADING_GISTS = 'STOP_LOADING_GISTS';
